@@ -1,0 +1,3 @@
+# Reference clones are local-only. Keep the source index tracked.
+/references/*/
+!/references/README.md
