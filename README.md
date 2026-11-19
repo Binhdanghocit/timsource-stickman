@@ -8,6 +8,7 @@ Dự án game chiến thuật đối kháng 2D với quân người que. Ngườ
 - Chưa chốt game engine; repository chưa có mã gameplay.
 - Danh sách repo tham khảo và ghi chú giấy phép: [`references/README.md`](references/README.md).
 - Roster và hướng tạo hình ban đầu: [`docs/UNIT_ROSTER.md`](docs/UNIT_ROSTER.md).
+- Hướng dẫn deploy bản web lên Ubuntu Server: [`deploy/ubuntu/README.md`](deploy/ubuntu/README.md).
 
 ## Hướng prototype
 
